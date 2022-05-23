@@ -1,0 +1,16 @@
+{
+    //precisa ser instalado!
+    "workbench.colorTheme": "Dracula Soft",
+    
+    "editor.accessibilitySupport": "off",
+    "workbench.activityBar.visible": true,
+    "html.autoClosingTags": false,
+    "editor.renderWhitespace": "all",
+    //"editor.fontFamily": "Lucida Console Regular"
+    
+    //precisa ser instalado!
+    "editor.fontFamily": "Fira Code Light",
+    
+    "Lua.telemetry.enable": false,
+    //"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'"
+}
